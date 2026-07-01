@@ -1,0 +1,11 @@
+## Main Pages
+- [[Story]]
+- [[Characters]]
+- [[Gameplay]]
+- [[Magic]]
+- [[Battle System]]
+- [[Areas]]
+- [[Misc]]
+- [[Questions/Problems]]
+- [[TBD]]
+- [[Hidden Featues]]

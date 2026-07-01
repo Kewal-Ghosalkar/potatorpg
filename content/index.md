@@ -1,3 +1,6 @@
+---
+title: Potato RPG
+---
 ## Main Pages
 - [[Story]]
 - [[Characters]]

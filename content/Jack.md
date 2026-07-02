@@ -36,7 +36,7 @@ Jack doesn't need any weapons. He got his two guns right here (Its his muscular 
 - adorable dumbass
 
 
-Introduced in [[Act II]] 
+Introduced in [[Act II (True-Pacifist)]] 
 Turns into "Jack the Jacked" Using his Magic
 Jack attack
 ### Jahnavi's idea

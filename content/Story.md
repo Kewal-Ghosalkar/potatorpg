@@ -1,4 +1,5 @@
 - [[Act I]]
-- [[Act II]]
+- [[Act II (True-Pacifist)]]
+- [[Act II (Genocide)]]
 - 
 

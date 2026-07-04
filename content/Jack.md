@@ -1,7 +1,9 @@
 ![[Jacks Concept Kewal.png]]
 ## Character Information
+- Species: Pumpkin
 - Gender: male
 - Pronouns: He/Him
+- Occupation: Soilder
 - Debut: [[tbd]]
 - Relationships: [[tbd]]
 > [!note]- Spoilers  

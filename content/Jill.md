@@ -1,14 +1,15 @@
-
 ## Character Information
+- Species: Pumpkin
 - Gender: male
 - Pronouns: He/Him
+- Occupation: Civilian
 - Debut: [[tbd]]
 - Relationships: [[tbd]]
 > [!note]- Spoilers  
 > Status: Alive (Pacifist) | Dead (Genocide)
 
 ## Personality
-
+[[tbd]]
 
 ## Main Story
 ### History
@@ -21,7 +22,7 @@ At the village you meet Jill as he's getting asked out out by [[Watermelon Girl]
 You run into him again at the post house where he is disappointed that the letter didn't show up even today. He's surprised to see you but decides to apologize for running away before. He mentions that he isn't always like this and that he can act normally with his friend. When asked more, he's a bit embarrassed but mentions how he has always been very fragile but his friend would always encourage him to work out. He mentioned how his friend was drafted into the army and curses himself for being too weak to join (He's then embarrassed about saying that out loud). He tells you that his friend writes him letters weekly but this week the letter is late, so he's just missing him as he blushes. He mentions how you came from the camps and you look pretty strong. He accidentally blurts out and invites you to come work out with him. 
 Later you meet him at the outdoor gym outside the village and you both work out as Jill mentions how you're pretty strong, much like "him". Jill talks more about his childhood and his feelings as it slowly becomes obvious that Jill likes his friend (He's all blushy blushy). You encourage him to express his feelings for his friend and he's hesitant but agrees.
 Later as you are leaving the village, Jill hand's you an envelope and thanks you for giving him the confidence he needed. You read who the envelope is addressed to as the words "To Jack" are slowly revealed.
-You meet Jill in the [[Second Village]] too as he's come to investigate the letter at the post office here. He asks you if you've delivered the letter. Later as you are leaving the village Jill comes up to you, he mentions how this post office hasn't received any letters either. He mentions how the last postman who went there noticed that the camps were abandoned. He looks to you and brings up the fact that you came from the camps and said everyone was okay. He stops himself and says that the postman must've been to a different camp.  
+You meet Jill in the [[Second Village]] as he's come to investigate the letter at the post office here. He asks if you've delivered the letter. Later as you are leaving the village Jill comes up to you, he mentions how this post office hasn't received any letters either. He tells how the last postman who went there noticed that the camps were abandoned. He looks to you and brings up the fact that you came from the camps and said everyone was okay. He stops himself and says that the postman must've been to a different camp.  
 Jill continues investigating off-screen.
 On a path as you walk down, it's raining as Jill appears in front of you. He brings up how you said everyone was fine, but they found evidence of fighting. They said that they found potato roots scattered everywhere. He asks you to tell him that he's missing something as you enter a battle.
 *Jill The Frill Fight*

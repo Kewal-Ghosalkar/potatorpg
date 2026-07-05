@@ -4,6 +4,7 @@ title: Potato RPG
 ## Main Pages
 - [[Story]]
 - [[Characters]]
+- [[Fights]]
 - [[Gameplay]]
 - [[Magic]]
 - [[Battle System]]

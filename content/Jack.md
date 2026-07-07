@@ -3,9 +3,10 @@
 - Species: Pumpkin
 - Gender: male
 - Pronouns: He/Him
-- Occupation: Soilder
+- Occupation: Soldier
 - Debut: [[tbd]]
-- Relationships: [[tbd]]
+- Relationships: 
+	- [[Jill]]: Best Friend
 > [!note]- Spoilers  
 > Status: Deceased
 

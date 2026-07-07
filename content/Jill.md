@@ -3,8 +3,9 @@
 - Gender: male
 - Pronouns: He/Him
 - Occupation: Civilian
-- Debut: [[tbd]]
-- Relationships: [[tbd]]
+- Debut: Outside [[First Village]]
+- Relationships: 
+	- [[Jack]]: Best Friend
 > [!note]- Spoilers  
 > Status: Alive (Pacifist) | Dead (Genocide)
 

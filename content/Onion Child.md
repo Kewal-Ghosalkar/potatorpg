@@ -1,13 +1,13 @@
 ## Character Information
-- Species: Asparagus
+- Species: Onion
 - Gender: Male
 - Pronouns: He/Him
 - Occupation: Civilian
-- Debut: [[First Village]]
+- Debut: Outside [[First Village]]
 - Relationships: 
-	- [[Fern]]: Sister
-	- [[General Moss]]: Friend (Father Figure)
-	- [[Onion Child]]: Best Friend
+	- [[Clover]]: Best Friend
+	- [[Onion Mother]]: Mother
+	- [[Onion Father]]: Father
 > [!note]- Spoilers  
 > Status: Alive
 
